@@ -15,3 +15,4 @@ lda.fit(X,y)
 X_new = lda.transform(X)
 plt.scatter(X_new[:, 0], X_new[:, 1],marker='o',c=y)
 plt.show()
+# aihonghong
